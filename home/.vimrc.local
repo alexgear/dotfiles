@@ -1,0 +1,7 @@
+"Enabling of json syntax"
+au! BufRead,BufNewFile *.json set filetype=json
+"Settign nice tabs, not default big ones"
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set expandtab

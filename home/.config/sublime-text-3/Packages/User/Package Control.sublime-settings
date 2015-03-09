@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"cform",
+		"Dockerfile Syntax Highlighting",
+		"Package Control"
+	],
+	"repositories":
+	[
+		"https://github.com/beaknit/cform"
+	]
+}
